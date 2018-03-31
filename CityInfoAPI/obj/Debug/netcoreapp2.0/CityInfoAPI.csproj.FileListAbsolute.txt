@@ -1,0 +1,11 @@
+c:\users\wneo\source\repos\CityInfoAPI\CityInfoAPI\bin\Debug\netcoreapp2.0\CityInfoAPI.deps.json
+c:\users\wneo\source\repos\CityInfoAPI\CityInfoAPI\bin\Debug\netcoreapp2.0\CityInfoAPI.runtimeconfig.json
+c:\users\wneo\source\repos\CityInfoAPI\CityInfoAPI\bin\Debug\netcoreapp2.0\CityInfoAPI.runtimeconfig.dev.json
+c:\users\wneo\source\repos\CityInfoAPI\CityInfoAPI\bin\Debug\netcoreapp2.0\CityInfoAPI.dll
+c:\users\wneo\source\repos\CityInfoAPI\CityInfoAPI\bin\Debug\netcoreapp2.0\CityInfoAPI.pdb
+c:\users\wneo\source\repos\CityInfoAPI\CityInfoAPI\obj\Debug\netcoreapp2.0\CityInfoAPI.csprojResolveAssemblyReference.cache
+c:\users\wneo\source\repos\CityInfoAPI\CityInfoAPI\obj\Debug\netcoreapp2.0\CityInfoAPI.csproj.CoreCompileInputs.cache
+c:\users\wneo\source\repos\CityInfoAPI\CityInfoAPI\obj\Debug\netcoreapp2.0\CityInfoAPI.AssemblyInfoInputs.cache
+c:\users\wneo\source\repos\CityInfoAPI\CityInfoAPI\obj\Debug\netcoreapp2.0\CityInfoAPI.AssemblyInfo.cs
+c:\users\wneo\source\repos\CityInfoAPI\CityInfoAPI\obj\Debug\netcoreapp2.0\CityInfoAPI.dll
+c:\users\wneo\source\repos\CityInfoAPI\CityInfoAPI\obj\Debug\netcoreapp2.0\CityInfoAPI.pdb
