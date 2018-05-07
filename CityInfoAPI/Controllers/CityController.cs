@@ -10,11 +10,7 @@ namespace CityInfoAPI.Controllers
 {   [Route("api/cities")]
     public class CityController : Controller
     {
-        // GET: /<controller>/
-        //public IActionResult Index()
-        //{
-        //    return View();
-        //}
+
         [HttpGet()]
         public JsonResult GetCities() {
 
